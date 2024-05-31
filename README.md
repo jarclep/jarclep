@@ -1,5 +1,6 @@
 ## Hello there 👋
 
+<img src="https://github.com/jarclep/jarclep/blob/main/Auge%20Arturiano.png">
 <!--
 **jarclep/jarclep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
