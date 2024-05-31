@@ -4,6 +4,13 @@
 <!--
 **jarclep/jarclep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<!-- BREVE DESCRIPCION -->
+- 📚 I am currently studying at [UNAM facultad de ciencias]([https://www.certus.edu.pe/](https://www.fciencias.unam.mx/)
+
+- 🌱 I am currently in the race **Data scientist**
+
+- 📫 How to reach me **jarclep@ciencias.unam.mx**
+
 <!-- CONTACTO -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
